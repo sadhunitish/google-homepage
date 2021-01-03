@@ -1,0 +1,55 @@
+
+.image-style {
+    width: 420px;
+    height: 140px;
+    border-radius: 10px;
+}
+
+.image-style:hover {
+    background-color: rgb(253, 218, 205);
+}
+
+.alignment {
+    position: fixed;
+    top: 35%;
+    left: 39%;
+}
+
+.myspace {
+    position: relative;
+    left: 20px;
+    margin: 10px 0px 10px 0px;
+}
+
+.myspace2 {
+    position: relative;
+    left: 50px;
+    margin: 10px 0px 10px 0px;
+}
+
+.mywidth {
+    width: 350px;
+}
+
+.myfoot {
+    position: fixed;
+    bottom: 0px;
+    background-color: rgb(197, 197, 197);
+    height: 50px;
+}
+
+.wrapper {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    background-color: rgb(230, 225, 221);
+    font-size: small;
+  }
+
+  p {
+    color:rgb(141, 141, 141); 
+    position: relative;
+    left: 0px;
+    text-align: center;
+  }
